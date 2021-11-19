@@ -1,0 +1,3 @@
+interface Relation {
+  tuples: Tuple[];
+}
